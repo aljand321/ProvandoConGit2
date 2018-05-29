@@ -19,7 +19,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".vista"></activity>
+=======
+>>>>>>> 0d4acc782d166da2d9d3c0c01b738358c043fd78
     </application>
 
 </manifest>
